@@ -149,8 +149,8 @@ class subject{
             else{
                 cout<<"Wrong Choice"<<endl;
             }
-            //maxMarks++;
-            cout<<++maxMarks;
+            maxMarks++;
+            //cout<<++maxMarks;
         
         }
         cout<<"You have scored"<<points<<"/"<<maxMarks*4<<endl;
