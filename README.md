@@ -1,4 +1,4 @@
-# Project
+# NoteBank and Testing
 MAKING YOUR NOTES AND GIVING A QUIZ FROM IT:
 
 The user is required to submit data structure notes.
